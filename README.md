@@ -49,6 +49,22 @@ More shortcuts: [every built-in Mac screenshot shortcut](https://snapapp.im/mac-
 The whole comparison: [Snipping Tool for Mac](https://snapapp.im/snipping-tool-for-mac?utm_source=github&utm_medium=readme&utm_campaign=repo).
 In your language: [Español](https://snapapp.im/es/herramienta-de-recortes-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Português (Brasil)](https://snapapp.im/pt-br/ferramenta-de-captura-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Italiano](https://snapapp.im/it/strumento-di-cattura-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Polski](https://snapapp.im/pl/narzedzie-wycinanie-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Türkçe](https://snapapp.im/tr/ekran-alintisi-araci-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Bahasa Indonesia](https://snapapp.im/id/alat-pemotong-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Čeština](https://snapapp.im/cs/vystrizky-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Dansk](https://snapapp.im/da/klippevaerktoj-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Deutsch](https://snapapp.im/de/snipping-tool-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Suomi](https://snapapp.im/fi/leikkaustyokalu-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Français](https://snapapp.im/fr/outil-capture-ecran-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Magyar](https://snapapp.im/hu/kepmetszo-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [日本語](https://snapapp.im/ja/snipping-tool-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [한국어](https://snapapp.im/ko/capture-tool-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Norsk bokmål](https://snapapp.im/nb/utklippsverktoy-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Nederlands](https://snapapp.im/nl/knipprogramma-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Português (Portugal)](https://snapapp.im/pt/ferramenta-de-recorte-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Русский](https://snapapp.im/ru/nozhnitsy-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Svenska](https://snapapp.im/sv/skarmklippverktyget-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Українська](https://snapapp.im/uk/nozhytsi-mac?utm_source=github&utm_medium=readme&utm_campaign=repo)
 
+## Compared with CleanShot X, Shottr and Snagit
+
+Prices as each maker states them on its own site, checked November 26, 2026, in US dollars:
+
+| App | Price | Free to use |
+| --- | --- | --- |
+| SnapApp | Free; SnapApp Pro $2.90 a month or $29 a year (14-day free trial), or $89 once | Yes: capturing and marking up |
+| CleanShot X | $35 once with a year of updates ($19 a year after, optional), or Pro at $10 per user a month, billed yearly | No |
+| Shottr | Free, or $12 once for a license, which commercial use needs | Yes, with reminders after 30 days |
+| Snagit | $39 per user a year | No |
+| Xnapper | $29.99 once for one Mac | Yes, with a watermark |
+
+SnapApp keeps to capturing an area, marking it up and hiding or numbering what matters, and never uploads a snip. It has no scrolling capture, screen recording or share links: CleanShot X and Snagit record the screen and share links, and Shottr and both of them take scrolling captures.
+
+More: [every Mac screenshot app compared](https://snapapp.im/mac-screenshot-apps-compared?utm_source=github&utm_medium=readme&utm_campaign=repo) · [CleanShot X alternative](https://snapapp.im/cleanshot-x-alternative?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Shottr alternative](https://snapapp.im/shottr-alternative?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Snagit alternative for Mac](https://snapapp.im/snagit-alternative-mac?utm_source=github&utm_medium=readme&utm_campaign=repo)
+
 ## Free and Pro
 
 Capturing, arrows, shapes, the pen, text and highlights are free for everyone, with no time limit and no watermark.
