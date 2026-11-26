@@ -36,6 +36,19 @@ Every snip is also saved as a full-resolution PNG in `Pictures/SnapApp`, named a
 
 More shortcuts: [every built-in Mac screenshot shortcut](https://snapapp.im/mac-screenshot-shortcuts?utm_source=github&utm_medium=readme&utm_campaign=repo).
 
+## Snipping on a Mac: common questions
+
+**How do I snip on a Mac?** Press Shift + Command + 4, drag across the area you want and let go: the snip saves to your desktop. Add Control (Control + Shift + Command + 4) to copy it instead, then paste it anywhere with Command + V. To snip straight into an editor for arrows, boxes and text, SnapApp does it with Command + Shift + 2.
+
+**What is the Mac shortcut for Windows + Shift + S?** Control + Shift + Command + 4. Like Windows + Shift + S, it lets you drag across an area and copies the snip to the clipboard. Leave out Control to save it as a file instead, and press Space before you drag to snip a whole window.
+
+**What is the Print Screen key on a Mac?** A Mac has no Print Screen key. Shift + Command + 3 captures the whole screen to a file on your desktop, and Control + Shift + Command + 3 copies it to the clipboard, like Print Screen does on Windows.
+
+**Is there Snip & Sketch or the Snipping Tool for Mac?** Not by those names. A Mac snips with the shortcuts above and the Screenshot toolbar (Shift + Command + 5), and you mark up a snip by clicking its floating thumbnail. SnapApp is a free Mac app that works like the Snipping Tool: snip, add arrows, shapes and text, then copy. Its Pro tools (blur, redaction, copying text and numbered steps) are 14 days free.
+
+The whole comparison: [Snipping Tool for Mac](https://snapapp.im/snipping-tool-for-mac?utm_source=github&utm_medium=readme&utm_campaign=repo).
+In your language: [Español](https://snapapp.im/es/herramienta-de-recortes-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Português (Brasil)](https://snapapp.im/pt-br/ferramenta-de-captura-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Italiano](https://snapapp.im/it/strumento-di-cattura-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Polski](https://snapapp.im/pl/narzedzie-wycinanie-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Türkçe](https://snapapp.im/tr/ekran-alintisi-araci-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Bahasa Indonesia](https://snapapp.im/id/alat-pemotong-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Čeština](https://snapapp.im/cs/vystrizky-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Dansk](https://snapapp.im/da/klippevaerktoj-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Deutsch](https://snapapp.im/de/snipping-tool-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Suomi](https://snapapp.im/fi/leikkaustyokalu-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Français](https://snapapp.im/fr/outil-capture-ecran-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Magyar](https://snapapp.im/hu/kepmetszo-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [日本語](https://snapapp.im/ja/snipping-tool-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [한국어](https://snapapp.im/ko/capture-tool-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Norsk bokmål](https://snapapp.im/nb/utklippsverktoy-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Nederlands](https://snapapp.im/nl/knipprogramma-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Português (Portugal)](https://snapapp.im/pt/ferramenta-de-recorte-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Русский](https://snapapp.im/ru/nozhnitsy-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Svenska](https://snapapp.im/sv/skarmklippverktyget-mac?utm_source=github&utm_medium=readme&utm_campaign=repo) · [Українська](https://snapapp.im/uk/nozhytsi-mac?utm_source=github&utm_medium=readme&utm_campaign=repo)
+
 ## Free and Pro
 
 Capturing, arrows, shapes, the pen, text and highlights are free for everyone, with no time limit and no watermark.
@@ -53,7 +66,7 @@ The first capture asks for Screen Recording permission: allow SnapApp in System 
 
 ## Privacy
 
-Capturing, marking up and text recognition happen on your Mac. Snips are never uploaded. The Mac App Store version makes no network requests at all.
+Capturing, marking up and text recognition happen on your Mac. Snips are never uploaded. The Mac App Store version connects only to Apple, for SnapApp Pro's in-app purchases.
 
 ## About this repository
 
